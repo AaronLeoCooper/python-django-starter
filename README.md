@@ -4,7 +4,6 @@ This starter project provides a setup that includes:
 
 - Python 3.8
 - Django 3.1
-- SQLite
 - Docker
 
 ## Setup
